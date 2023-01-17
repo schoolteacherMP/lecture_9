@@ -1,3 +1,4 @@
+# lecture_9    
 # самостоятельная работа  
 ![image](https://user-images.githubusercontent.com/113675674/195065671-d681b51f-0ed7-4f00-9a3b-6bd1108b79bf.png)  
 
